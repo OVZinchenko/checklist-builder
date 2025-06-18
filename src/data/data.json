@@ -1,0 +1,40 @@
+{
+  "taskName": "Task Name",
+  "status": 1,
+  "description": ["Not started", "Done", "Fail", "Ticket progress is blocked", "In progress"],
+  "checkLists": [
+    {
+      "title": "Checklist 1",
+      "checkList": [
+        {
+          "id": "1",
+          "title": "Check item 1",
+          "curentStatus": 1,
+          "descriptions": [],
+          "statuses": ["Not started", "Done", "Fail", "Blocked"]
+        },
+        {
+          "id": "2",
+          "title": "Check item 2",
+          "curentStatus": 2,
+          "descriptions": [],
+          "statuses": ["Not started", "Done", "Fail", "Blocked"]
+        },
+        {
+          "id": "3",
+          "title": "Check item 3",
+          "curentStatus": 3,
+          "descriptions": [],
+          "statuses": ["Not started", "Done", "Fail", "Blocked"]
+        }
+        ,{
+          "id": "4",
+          "title": "Check item 4",
+          "curentStatus": 4,
+          "descriptions": [],
+          "statuses": ["Not started", "Done", "Fail", "Blocked"]
+        }
+      ]
+    }
+  ]
+}
